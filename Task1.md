@@ -5,7 +5,7 @@
 - In response, it gives response code 201, response text "name", "job", "id", and "createdAt".
 - For this, I used the "requests", "jsonpath" and "json" modules of Python to interact with the API and its response.
 
-### Paylod for the API:
+### Payload for the API:
       {
           "name": "morpheus",
           "job": "leader"
